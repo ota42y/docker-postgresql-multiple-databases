@@ -1,3 +1,5 @@
+10.7 pushed ota42y/docker-postgresql-multiple-databases:10.7 in dockerhub
+
 # Using multiple databases with the official PostgreSQL Docker image
 
 The [official recommendation](https://hub.docker.com/_/postgres/) for creating
